@@ -1,0 +1,20 @@
+<Project Sdk="Microsoft.NET.Sdk.Web">
+
+  <PropertyGroup>
+    <TargetFramework>net5.0</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Folder Include="wwwroot\image\" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <None Include="wwwroot\image\Brand.png" />
+    <None Include="wwwroot\image\CES_Floating_Windows 1.png" />
+    <None Include="wwwroot\image\Frame_3931_3.png" />
+    <None Include="wwwroot\image\Frame_3932.png" />
+    <None Include="wwwroot\image\Frame_3932_1.png" />
+    <None Include="wwwroot\image\H2_Panel_4_Desk_1.png" />
+  </ItemGroup>
+
+</Project>

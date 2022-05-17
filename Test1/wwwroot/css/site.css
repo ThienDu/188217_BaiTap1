@@ -1,0 +1,2370 @@
+﻿/* Please see documentation at https://docs.microsoft.com/aspnet/core/client-side/bundling-and-minification
+for details on configuring this project to bundle and minify static web assets. */
+
+.container {
+    position: relative;
+    width: 1920px;
+    height: 5992px;
+    background: #F8F8F8;
+    z-index: 0;
+}
+
+
+
+/*Frame 3931*/
+
+    .frame-3931 {
+        position: absolute;
+        height: 549px;
+        width: 1920px;
+        top: 73px;
+        background-color: #0C011C;
+        z-index: 4;
+    }
+
+
+    .frame-3931_img {
+        position: absolute;
+        width: 826px;
+        height: 458px;
+        left: 315px;
+        top: 47px;
+        /*object-fit: cover;*/
+    }
+
+
+
+
+
+    .frame-3931-rec {
+        position: absolute;
+        width: 184px;
+        height: 461px;
+        left: 1005px;
+        top: 44px;
+        background: linear-gradient(269.63deg, #0C011C 39.75%, rgba(12, 1, 28, 0) 94.51%);
+    }
+
+    .frame-3931-br {
+        position: absolute;
+        width: 154px;
+        height: 40px;
+        left: 1068px;
+        top: 27px;
+    }
+
+    .frame-3931-1 {
+        position: absolute;
+        width: 371px;
+        height: 40px;
+        left: 1074px;
+        top: 78px;
+        font-family: 'IntelOne Display';
+        font-style: normal;
+        font-weight: 500;
+        font-size: 24px;
+        line-height: 110%;
+        /* or 26px */
+
+
+        color: #A2F996;
+    }
+
+    .frame-3931-2 {
+        position: absolute;
+        width: 432px;
+        height: 183px;
+        left: 1074px;
+        top: 147px;
+        font-family: 'IntelOne Display';
+        font-style: normal;
+        font-weight: 700;
+        font-size: 55px;
+        line-height: 110%;
+        /* or 61px */
+
+
+        color: #FFFFFF;
+    }
+
+    .frame-3931-in {
+        position: absolute;
+        width: 265px;
+        height: 102px;
+        left: 1071px;
+        top: 376px;
+    }
+
+    /*Frame 3962*/
+
+    .frame-3962 {
+        position: absolute;
+        height: 50px;
+        width: 1920px;
+        left: 2215px;
+        top: 700px;
+        border-radius: 0px;
+    }
+
+    .frame-3962-1 {
+        width: 1200px;
+        height: 37px;
+        float: left;
+        flex-direction: row;
+        padding: 7px 0 0 466px;
+    }
+
+    .frame-3962 span {
+        float: left;
+        justify-content: center;
+    }
+
+    .frame-3962-11 {
+        width: 345px;
+        height: 37px;
+        font-family: 'Helvetica Neue';
+        font-style: normal;
+        font-weight: 500;
+        font-size: 20px;
+        line-height: 183.3%;
+        /* identical to box height, or 37px */
+
+        text-align: center;
+        color: #FFFFFF;
+    }
+
+    .frame-3962-12 {
+        width: 345px;
+        height: 37px;
+        font-family: 'Helvetica Neue';
+        font-style: normal;
+        font-weight: 500;
+        font-size: 20px;
+        line-height: 183.3%;
+        /* identical to box height, or 37px */
+
+        text-align: center;
+        color: #FFFFFF;
+    }
+
+    .frame-3962-13 {
+        width: 345px;
+        height: 37px;
+        font-family: 'Helvetica Neue';
+        font-style: normal;
+        font-weight: 500;
+        font-size: 20px;
+        line-height: 183.3%;
+        /* identical to box height, or 37px */
+
+        text-align: center;
+        color: #FFFFFF;
+    }
+
+    .frame-3962-2 {
+        width: 1920px;
+        height: 50px;
+        background: #123F93;
+    }
+
+    /*Frame 3932*/
+
+    .frame-3932 {
+        position: absolute;
+        width: 1920px;
+        height: 686px;
+        left: 0px;
+        top: 622px;
+        background: #0C011C;
+        z-index: 4;
+    }
+
+    .frame-3932-1 {
+        position: absolute;
+        width: 432px;
+        height: 122px;
+        left: 511px;
+        top: 236px;
+        font-family: 'IntelOne Display';
+        font-style: normal;
+        font-weight: 700;
+        font-size: 55px;
+        line-height: 110%;
+        color: #FFFFFF;
+    }
+
+    .frame-3932-2 {
+        position: absolute;
+        width: 408px;
+        height: 40px;
+        left: 511px;
+        top: 389px;
+        font-family: 'IntelOne Display';
+        font-style: normal;
+        font-weight: 400;
+        font-size: 24px;
+        line-height: 110%;
+        color: #FFFFFF;
+    }
+
+    .frame-3932-img {
+        position: absolute;
+        width: 914px;
+        height: 792px;
+        left: 878px;
+        top: -64px;
+        z-index: 0;
+    }
+
+    .frame-3932-la {
+        position: absolute;
+        width: 1200px;
+        height: 3242px;
+        left: 739px;
+        top: 34px;
+        background: url('../image/Layer 569-1.png');
+    }
+
+    /*Frame 39322*/
+
+    .frame-39322 {
+        position: absolute;
+        width: 1920px;
+        height: 1332px;
+        left: 0px;
+        top: 1308px;
+        background: #0C011C;
+        z-index: 4;
+    }
+
+    .frame-39322-1 {
+        position: absolute;
+        width: 371px;
+        height: 40px;
+        left: 1080px;
+        top: 1131px;
+        font-family: 'IntelOne Display';
+        font-style: normal;
+        font-weight: 500;
+        font-size: 24px;
+        line-height: 110%;
+        /* or 26px */
+        color: #76F9E3;
+        z-index: 1;
+    }
+
+    .frame-39322-2 {
+        position: absolute;
+        width: 371px;
+        height: 40px;
+        left: 498px;
+        top: 991px;
+        font-family: 'IntelOne Display';
+        font-style: normal;
+        font-weight: 500;
+        font-size: 24px;
+        line-height: 110%;
+        color: #76F9E3;
+        z-index: 1;
+    }
+
+    .frame-39322-3 {
+        position: absolute;
+        width: 337px;
+        height: 102px;
+        left: 1166px;
+        top: 370px;
+        font-family: 'IntelOne Display';
+        font-style: normal;
+        font-weight: 400;
+        font-size: 24px;
+        line-height: 110%;
+        /* or 26px */
+
+
+        color: #FFFFFF;
+    }
+
+    .frame-39322-4 {
+        position: absolute;
+        width: 931px;
+        height: 40px;
+        left: 502px;
+        top: 177px;
+        font-family: 'IntelOne Display';
+        font-style: normal;
+        font-weight: 400;
+        font-size: 24px;
+        line-height: 110%;
+        /* or 26px */
+
+        text-align: center;
+        color: #FFFFFF;
+    }
+
+    .frame-39322-5 {
+        position: absolute;
+        width: 336px;
+        height: 144px;
+        left: 1080px;
+        top: 1175px;
+        font-family: 'IntelOne Display';
+        font-style: normal;
+        font-weight: 400;
+        font-size: 24px;
+        line-height: 110%;
+        /* or 26px */
+
+
+        color: #FFFFFF;
+    }
+
+    .frame-39322-6 {
+        position: absolute;
+        width: 408px;
+        height: 144px;
+        left: 498px;
+        top: 1031px;
+        font-family: 'IntelOne Display';
+        font-style: normal;
+        font-weight: 400;
+        font-size: 24px;
+        line-height: 110%;
+        /* or 26px */
+
+        z-index: 1;
+        color: #FFFFFF;
+    }
+
+    .frame-39322-7 {
+        position: absolute;
+        width: 832px;
+        height: 61px;
+        left: 552px;
+        top: 85px;
+        font-family: 'IntelOne Display';
+        font-style: normal;
+        font-weight: 700;
+        font-size: 55px;
+        line-height: 110%;
+        /* identical to box height, or 61px */
+
+        text-align: center;
+        color: #FFFFFF;
+    }
+
+    .frame-39322-img-1 {
+        position: absolute;
+        width: 266px;
+        height: 21px;
+        left: 1166px;
+        top: 314px;
+    }
+
+    .frame-39322-img-2 {
+        position: absolute;
+        width: 516px;
+        height: 143px;
+        left: 968px;
+        top: 222px;
+        mix-blend-mode: screen;
+    }
+
+    .frame-39322-img-3 {
+        position: absolute;
+        width: 411px;
+        height: 216px;
+        left: 1098px;
+        top: 288px;
+    }
+
+    .frame-39322-img-4 {
+        position: absolute;
+        width: 1200px;
+        height: 892px;
+        left: 368px;
+        top: 314px;
+    }
+
+    .frame-39322-img-5 {
+        position: absolute;
+        width: 1200px;
+        height: 3242px;
+        left: 739px;
+        top: -670px;
+        z-index: 3;
+    }
+
+    /*Frame 3933*/
+
+    .frame-3933 {
+        position: absolute;
+        width: 1920px;
+        height: 1444px;
+        left: 0px;
+        top: 2640px;
+        background: #0C011C;
+        z-index: 1;
+    }
+
+    .frame-3933-1 {
+        position: absolute;
+        width: 870.93px;
+        height: 322px;
+        left: 858px;
+        top: 1027px;
+        z-index: 1;
+    }
+
+    .frame-3933-11 {
+        position: absolute;
+        width: 369px;
+        height: 102px;
+        left: 253px;
+        top: 101px;
+        font-family: 'IntelOne Display';
+        font-style: normal;
+        font-weight: 500;
+        font-size: 30px;
+        line-height: 110%;
+        /* or 33px */
+
+        z-index: 3;
+        color: #FFFFFF;
+    }
+
+    .frame-3933-12 {
+        position: absolute;
+        width: 483px;
+        height: 102px;
+        left: 254px;
+        top: 184px;
+        font-family: 'IntelOne Display';
+        font-style: normal;
+        font-weight: 400;
+        font-size: 24px;
+        line-height: 110%;
+        /* or 26px */
+
+        z-index: 3;
+        color: #FFFFFF;
+    }
+
+    .frame-3933-1-img {
+        position: absolute;
+        width: 27px;
+        height: 52px;
+        left: 198px;
+        top: 98px;
+        z-index: 3;
+    }
+
+    .frame-3933-14 {
+        position: absolute;
+        width: 870.93px;
+        height: 322px;
+        left: 0px;
+        top: 0px;
+        z-index: 1;
+    }
+
+    .frame-3933-14-img1 {
+        position: absolute;
+        width: 870.93px;
+        height: 180.52px;
+        left: 0px;
+        top: 0px;
+        z-index: 2;
+    }
+
+    .frame-3933-14-img2 {
+        position: absolute;
+        width: 512px;
+        height: 239px;
+        left: 225px;
+        top: 83px;
+        z-index: 3;
+    }
+
+    .frame-3933-2 {
+        position: absolute;
+        width: 870.93px;
+        height: 322px;
+        left: 117px;
+        top: 1027px;
+        z-index: 1;
+    }
+
+    .frame-3933-21 {
+        position: absolute;
+        width: 538px;
+        height: 102px;
+        left: 253px;
+        top: 113px;
+        font-family: 'IntelOne Display';
+        font-style: normal;
+        font-weight: 500;
+        font-size: 30px;
+        line-height: 110%;
+        /* or 33px */
+
+        z-index: 2;
+        color: #FFFFFF;
+    }
+
+    .frame-3933-22 {
+        position: absolute;
+        width: 607px;
+        height: 102px;
+        left: 254px;
+        top: 184px;
+        font-family: 'IntelOne Display';
+        font-style: normal;
+        font-weight: 400;
+        font-size: 24px;
+        line-height: 110%;
+        /* or 26px */
+
+        z-index: 2;
+        color: #FFFFFF;
+    }
+
+    .frame-3933-2-img {
+        position: absolute;
+        width: 27px;
+        height: 52px;
+        left: 198px;
+        top: 98px;
+        z-index: 2;
+    }
+
+    .frame-3933-24 {
+        position: absolute;
+        width: 870.93px;
+        height: 322px;
+        left: 0px;
+        top: 0px;
+    }
+
+    .frame-3933-24-img1 {
+        position: absolute;
+        width: 870.93px;
+        height: 180.52px;
+        left: 0px;
+        top: 0px;
+    }
+
+    .frame-3933-24-img2 {
+        position: absolute;
+        width: 576px;
+        height: 239px;
+        left: 225px;
+        top: 83px;
+        z-index: 1;
+    }
+
+    .frame-3933-3 {
+        position: absolute;
+        width: 538px;
+        height: 102px;
+        left: 652px;
+        top: 316px;
+        font-family: 'IntelOne Display';
+        font-style: normal;
+        font-weight: 500;
+        font-size: 30px;
+        line-height: 110%;
+        /* or 33px */
+
+        z-index: 3;
+        color: #FFFFFF;
+    }
+
+    .frame-3933-4 {
+        position: absolute;
+        width: 640px;
+        height: 102px;
+        left: 653px;
+        top: 367px;
+        font-family: 'IntelOne Display';
+        font-style: normal;
+        font-weight: 400;
+        font-size: 24px;
+        line-height: 110%;
+        /* or 26px */
+
+        z-index: 3;
+        color: #FFFFFF;
+    }
+
+    .frame-3933-img-1 {
+        position: absolute;
+        width: 27px;
+        height: 52px;
+        left: 601px;
+        top: 288px;
+        z-index: 3;
+    }
+
+    .frame-3933-5 {
+        position: absolute;
+        width: 890px;
+        height: 219px;
+        left: 403px;
+        top: 232px;
+        z-index: auto;
+    }
+
+    .frame-3933-5-img1 {
+        position: absolute;
+        width: 870.93px;
+        height: 111.05px;
+        left: 0px;
+        top: 0px;
+        z-index: 1;
+    }
+
+    .frame-3933-5-img2 {
+        position: absolute;
+        width: 665.05px;
+        height: 167.74px;
+        left: 224.95px;
+        top: 51.26px;
+        z-index: 3;
+    }
+
+    .frame-3933-6 {
+        position: absolute;
+        width: 931px;
+        height: 40px;
+        left: 502px;
+        top: 177px;
+        font-family: 'IntelOne Display';
+        font-style: normal;
+        font-weight: 400;
+        font-size: 24px;
+        line-height: 110%;
+        /* or 26px */
+        z-index: 3;
+        text-align: center;
+        color: #FFFFFF;
+    }
+
+    .frame-3933-7 {
+        position: absolute;
+        width: 996px;
+        height: 61px;
+        left: 470px;
+        top: 85px;
+        font-family: 'IntelOne Display';
+        font-style: normal;
+        font-weight: 700;
+        font-size: 55px;
+        line-height: 110%;
+        /* identical to box height, or 61px */
+        z-index: 3;
+        text-align: center;
+        color: #FFFFFF;
+    }
+
+    .frame-3933-img-2 {
+        position: absolute;
+        width: 1366px;
+        height: 822px;
+        left: 285px;
+        top: 367px;
+        z-index: 3;
+    }
+
+
+    .frame-3933-img-3 {
+        position: absolute;
+        width: 1200px;
+        height: 1051px;
+        left: 368px;
+        top: 407px;
+        z-index: 3;
+        background: url('../image/Vector Smart Object copy 1.png');
+        mix-blend-mode: lighten;
+    }
+
+
+    .frame-3933-img-4 {
+        position: absolute;
+        width: 1975px;
+        height: 1243px;
+        left: 0px;
+        top: 78px;
+        z-index: 2;
+    }
+
+
+    .frame-3933-img-5 {
+        position: absolute;
+        width: 1200px;
+        height: 3242px;
+        left: 739px;
+        top: -2064px;
+        z-index: 3;
+    }
+
+
+    /*Frame 3935*/
+
+    .frame-3935 {
+        position: absolute;
+        width: 1920px;
+        height: 1444px;
+        left: 0px;
+        top: 4084px;
+    }
+
+    .frame-3935-1 {
+        position: absolute;
+        width: 1920px;
+        height: 1444px;
+        left: 23px;
+        top: 0px;
+        background: url('../image/Vector Smart Object copy 8.png');
+        opacity: 0.5;
+    }
+
+    .frame-3935-2 {
+        position: absolute;
+        width: 1950px;
+        height: 1409px;
+        left: 0px;
+        top: 204px;
+        background: url('../image/Vector Smart Object copy 9.png');
+        opacity: 0.5;
+        transform: rotate(-180deg);
+    }
+
+    .Layer-574 {
+        position: absolute;
+        width: 1975px;
+        height: 1243px;
+        left: -38px;
+        top: 4127px;
+        background: url('../image/Layer 574 2.png');
+    }
+
+    /*frame-39333*/
+
+    .frame-39333 {
+        position: absolute;
+        width: 1200px;
+        height: 133px;
+        left: 360px;
+        top: 126px;
+        background: linear-gradient(180deg, #002B7B 0%, #0C011C 185.71%);
+        border-radius: 80px;
+    }
+
+    .frame-39333-1 {
+        position: absolute;
+        width: 684px;
+        height: 72px;
+        left: 618px;
+        top: 153px;
+        font-family: 'IntelOne Display';
+        font-style: normal;
+        font-weight: 700;
+        font-size: 65px;
+        line-height: 110%;
+        /* identical to box height, or 72px */
+
+        text-align: center;
+        background: linear-gradient(180deg, #C5FD4D 0%, #7AF1F9 123.61%);
+        -webkit-text-fill-color: transparent;
+    }
+
+    .frame-39333-2 {
+        position: absolute;
+        width: 684px;
+        height: 72px;
+        left: 620px;
+        top: 155px;
+        font-family: 'IntelOne Display';
+        font-style: normal;
+        font-weight: 700;
+        font-size: 65px;
+        line-height: 110%;
+        /* identical to box height, or 72px */
+
+        text-align: center;
+        color: #000000;
+    }
+
+    .frame-39333-3 {
+        position: absolute;
+        width: 1220px;
+        height: 198px;
+        left: 340px;
+        top: 106px;
+        background: url('../image/Layer 569 2.png');
+    }
+
+    .frame-39333-4 {
+        position: absolute;
+        width: 471px;
+        height: 584px;
+        left: 1133px;
+        top: 50px;
+        background: url('../image/Vector Smart Object copy.png');
+    }
+
+    .frame-39333-5 {
+        position: absolute;
+        width: 383px;
+        height: 584px;
+        left: 340px;
+        top: 50px;
+        background: url('../image/Vector Smart Object copy.png');
+    }
+
+    .frame-39333-6 {
+        position: absolute;
+        width: 471px;
+        height: 584px;
+        left: 1133px;
+        top: 50px;
+        background: url('../image/Vector Smart Object copy.png');
+    }
+
+    .frame-39333-7 {
+        position: absolute;
+        width: 383px;
+        height: 584px;
+        left: 340px;
+        top: 50px;
+        background: url('../image/Vector Smart Object copy.png');
+    }
+
+    .frame-39333-8 {
+        position: absolute;
+        width: 471px;
+        height: 584px;
+        left: 1133px;
+        top: 50px;
+        background: url('../image/Vector Smart Object copy.png');
+    }
+
+    .frame-39333-9 {
+        position: absolute;
+        width: 383px;
+        height: 584px;
+        left: 340px;
+        top: 50px;
+        background: url('../image/Vector Smart Object copy.png');
+    }
+}
+
+.frame-39333-10 {
+    position: absolute;
+    width: 789px;
+    height: 219px;
+    left: 993px;
+    top: 142px;
+    background: url('../image/Layer 12 copy 2.png');
+    mix-blend-mode: screen;
+}
+
+.frame-39333-11 {
+    position: absolute;
+    width: 789px;
+    height: 219px;
+    left: 183px;
+    top: 23px;
+    background: url('../image/Layer 12 copy 2.png');
+    mix-blend-mode: screen;
+}
+
+.frame-39333-12 {
+    position: absolute;
+    width: 789px;
+    height: 219px;
+    left: 993px;
+    top: 142px;
+    background: url('../image/Layer 12 copy 2.png');
+    mix-blend-mode: screen;
+}
+
+.frame-39333-13 {
+    position: absolute;
+    width: 789px;
+    height: 219px;
+    left: 183px;
+    top: 23px;
+    background: url('../image/Layer 12 copy 2.png');
+    mix-blend-mode: screen;
+}
+
+.frame-39333-14 {
+    position: absolute;
+    width: 789px;
+    height: 219px;
+    left: 993px;
+    top: 142px;
+    background: url('../image/Layer 12 copy 2.png');
+    mix-blend-mode: screen;
+}
+
+.frame-39333-15 {
+    position: absolute;
+    width: 789px;
+    height: 219px;
+    left: 183px;
+    top: 23px;
+    background: url('../image/Layer 12 copy 2.png');
+    mix-blend-mode: screen;
+}
+
+/*frame item*/
+
+.frame-items {
+    position: absolute;
+    width: 1170px;
+    left: 385px;
+    top: 304px;
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.frame-item {
+    margin-left: 11.09px;
+    margin-top: 36.69px;
+    width: 221.13px;
+    height: 550px;
+    background-color: white;
+    transition: 0.5s;
+}
+
+.frame-item:hover {
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.4);
+}
+
+
+.item-main {
+   
+}
+
+
+
+.item-discount {
+    background-color: mintcream;
+}
+
+.item-img {
+  
+    width: 100%;
+    height: 135px;
+    transition: 0.5s;
+}
+.item-name {
+    font-size: 17px;
+    padding-left: 5px;
+    transition: 0.5s;
+}
+
+
+.item-main:hover .item-img {
+    transform: scale(0.9);
+}
+
+.item-main:hover .item-name {
+    color: deepskyblue;
+}
+
+
+
+.item-ram-harddriver {
+    padding-left:5px;
+}
+
+.item-ram-harddriver span {
+    border: 1px solid gray;
+    padding: 3px 5px;
+    padding-bottom: 3px;
+    border-radius: 3px;
+}
+
+.item-online {
+    display: block;
+    padding: 15px 0px 0px 5px;
+}
+
+.item-price {
+    display: inline-block;
+    padding: 5px 0px 0px 5px;
+
+}
+
+.price-old {
+    text-decoration-line:line-through;
+    
+}
+
+.percent {
+
+}
+
+.price {
+    font-size: x-large;
+    padding: 5px 0px 0px 5px;
+}
+
+.item-gift {
+    font-size: 16px;
+    display: block;
+    padding: 5px 0px 0px 5px;
+}
+
+.item-detail {
+    padding: 20px 0px 0px 5px;
+    display: block;
+
+    
+}
+.item-name span {
+    margin-left: 20px;
+}
+}
+
+
+.frame-show-all-items {
+    position: absolute;
+    width: 373px;
+    height: 249.23px;
+    left: 774px;
+    top: 1480px;
+    transition:0.5s
+}
+
+.frame-show-all-items-text:hover {
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.4);
+}
+
+.frame-show-all-items-text {
+    position: absolute;
+    width: 260px;
+    height: 16px;
+    left: 50.12px;
+    top: 14px;
+    font-family: 'Helvetica';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 16px;
+    /* identical to box height */
+
+    display: flex;
+    align-items: center;
+    text-align: center;
+    text-transform: uppercase;
+    color: #000000;
+}
+
+
+/*frame-3934*/
+
+.frame-3934 {
+    position: absolute;
+    width: 1939px;
+    height: 564px;
+    left: -10px;
+    top: 5628px;
+    background: #FFFFFF;
+}
+
+
+.frame-3934-text {
+    position: absolute;
+    width: 330px;
+    height: 38px;
+    left: 805px;
+    top: 28px;
+    font-family: 'Arial';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 10px;
+    /* or 51% */
+
+    display: flex;
+    align-items: center;
+    text-align: center;
+    color: #000000;
+}
+
+.frame-3934-img {
+    position: absolute;
+    width: 1200px;
+    height: 460px;
+    left: 368px;
+    top: 87px;
+}
+
+
+.frame-3934-content {
+    position: absolute;
+    width: 1400px;
+    height: 550px;
+    left: 368px;
+    top: 87px;
+}
+
+.frame-3934-content-1 {
+    display: flex;
+    flex-direction: row;
+}
+
+.frame-3934-content-1-youtube {
+    width: 800px;
+    height: 450px;
+}
+
+
+.f3c1p-img {
+    height: 100px;
+    width: 150px;
+}
+  
+
+.f3c1-posts {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    padding-left: 35px;
+}
+
+.f3c1-post {
+    display: flex;
+    flex-direction: row;
+}
+
+.f3c1-post:hover {
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.4);
+}
+
+.f3c1-post-text {
+    padding-left: 10px;
+}
+
+.f3c1pt-title {
+    display: block;
+    font-size: 24px;
+    transition: 0.3s;
+}
+
+.f3c1pt-img {
+    transition: 0.5s;
+}
+
+.f3c1pt-title:hover {
+    color:aqua;
+}
+.f3c1p-img:hover {
+    transform: scale(0.99);
+}
+
+.f3c1pt-content {
+    display: block;
+    font-size: 19px;
+    padding-top: 5px;
+}
+
+.f3c1pt-dv {
+    display:block;
+    font-size: 16px;
+    color:darkgray;
+    padding-top: 5px;
+}
+
+.frame-3934-conten-2 {
+    display: flex;
+    flex-direction: row;
+    padding-top: 10px;
+}
+
+.f3c2-text {
+    font-size: 25px;
+    
+}
+
+.f3c2-img-1 {
+    margin-left: 15px;
+    color: snow;
+    background-color: #4267b2;
+    font-size: 16px;
+    text-align: center;
+    border-radius: 3px;
+}
+
+.f3c2-img-1:hover {
+    background-color: aqua;
+}
+
+.f3c2-img-2 {
+    
+    margin-left: 5px;
+    color: snow;
+    background-color: #4267b2;
+    font-size: 16px;
+    text-align: center;
+    border-radius: 3px;
+}
+
+.f3c2-img-2:hover {
+    background-color: aqua;
+}
+
+/*Mobile */
+
+
+
+@media (max-width: 500px) {
+
+    .container {
+        position: relative;
+        width: 360px;
+        height: 3810px;
+        background: #F8F8F8;
+    }
+
+    .frame-3931 {
+        position: absolute;
+        width: 100%;
+        height: 521px;
+        left: 0px;
+        top: 45px;
+        background: #0C011C;
+    }
+
+
+    .frame-3931_img {
+        position: absolute;
+        width: 480px;
+        height: 267px;
+        left: -31px;
+        top: 260px;
+    }
+
+
+
+
+
+    .frame-3931-rec {
+        position: absolute;
+        width: 184px;
+        height: 461px;
+        left: 1005px;
+        top: 44px;
+        background: linear-gradient(269.63deg, #0C011C 39.75%, rgba(12, 1, 28, 0) 94.51%);
+    }
+
+    .frame-3931-br {
+        position: absolute;
+        width: 154px;
+        height: 40px;
+        left: 26px;
+        top: 15px;
+    }
+
+    .frame-3931-1 {
+        position: absolute;
+        width: 250px;
+        height: 40px;
+        left: 32px;
+        top: 124px;
+        font-family: 'IntelOne Display';
+        font-style: normal;
+        font-weight: 500;
+        font-size: 15px;
+        line-height: 110%;
+        color: #A2F996;
+    }
+
+    .frame-3931-2 {
+        position: absolute;
+        width: 280px;
+        height: 56px;
+        left: 32px;
+        top: 57px;
+        font-family: 'IntelOne Display';
+        font-style: normal;
+        font-weight: 700;
+        font-size: 25px;
+        line-height: 110%;
+        /* or 28px */
+
+
+        color: #FFFFFF;
+    }
+
+    .frame-3931-in {
+        position: absolute;
+        width: 195px;
+        height: 75px;
+        left: 32px;
+        top: 185px;
+    }
+
+
+    /* MObile */
+    
+
+    /*Frame 3932 - Mobile*/
+
+    .frame-3932 {
+        position: absolute;
+        width: 360px;
+        height: 503px;
+        left: 0px;
+        top: 566px;
+        background: #0C011C;
+        z-index: 4;
+    }
+
+    .frame-3932-1 {
+        position: absolute;
+        width: 280px;
+        height: 56px;
+        left: 40px;
+        top: 31px;
+        font-family: 'IntelOne Display';
+        font-style: normal;
+        font-weight: 700;
+        font-size: 25px;
+        line-height: 110%;
+
+        text-align: center;
+        color: #FFFFFF;
+    }
+
+    .frame-3932-2 {
+        position: absolute;
+        width: 306px;
+        height: 40px;
+        left: 27px;
+        top: 101px;
+        font-family: 'IntelOne Display';
+        font-style: normal;
+        font-weight: 400;
+        font-size: 15px;
+        line-height: 110%;
+
+        text-align: center;
+        color: #FFFFFF;
+    }
+
+    .frame-3932-img {
+        position: absolute;
+        width: 536px;
+        height: 464px;
+        left: -77px;
+        top: 83px;
+        z-index: 0;
+    }
+
+    .frame-3932-la {
+        position: absolute;
+        width: 392px;
+        height: 1058px;
+        left: -25px;
+        top: -72px;
+        background: url('../image/Layer 569-1.png');
+    }
+
+    /*Frame 39322 - Mobile*/
+
+    .frame-39322 {
+        position: absolute;
+        width: 360px;
+        height: 582px;
+        left: 0px;
+        top: 1069px;
+        background: #0C011C;
+        z-index: 4;
+    }
+
+    .frame-39322-1 {
+        position: absolute;
+        width: 371px;
+        height: 40px;
+        left: 210px;
+        top: 490px;
+        font-family: 'IntelOne Display';
+        font-style: normal;
+        font-weight: 500;
+        font-size: 15px;
+        line-height: 110%;
+        color: #76F9E3;
+        z-index: 1;
+    }
+
+    .frame-39322-2 {
+        position: absolute;
+        width: 371px;
+        height: 40px;
+        left: 27px;
+        top: 441px;
+        font-family: 'IntelOne Display';
+        font-style: normal;
+        font-weight: 500;
+        font-size: 15px;
+        line-height: 110%;
+        z-index: 1;
+    }
+
+    .frame-39322-3 {
+        position: absolute;
+        width: 141px;
+        height: 40px;
+        left: 215px;
+        top: 215px;
+        font-family: 'IntelOne Display';
+        font-style: normal;
+        font-weight: 400;
+        font-size: 10px;
+        line-height: 110%;
+        /* or 11px */
+
+
+        color: #FFFFFF;
+    }
+
+    .frame-39322-4 {
+        position: absolute;
+        width: 311px;
+        height: 40px;
+        left: 27px;
+        top: 101px;
+        font-family: 'IntelOne Display';
+        font-style: normal;
+        font-weight: 400;
+        font-size: 15px;
+        line-height: 110%;
+        /* or 17px */
+
+        text-align: center;
+        color: #FFFFFF;
+    }
+
+    .frame-39322-5 {
+        position: absolute;
+        width: 141px;
+        height: 40px;
+        left: 210px;
+        top: 511px;
+        font-family: 'IntelOne Display';
+        font-style: normal;
+        font-weight: 400;
+        font-size: 10px;
+        line-height: 110%;
+        /* or 11px */
+
+
+        color: #FFFFFF;
+    }
+
+    .frame-39322-6 {
+        position: absolute;
+        width: 141px;
+        height: 40px;
+        left: 27px;
+        top: 461px;
+        font-family: 'IntelOne Display';
+        font-style: normal;
+        font-weight: 400;
+        font-size: 10px;
+        line-height: 110%;
+        /* or 11px */
+
+
+        color: #FFFFFF;
+    }
+
+    .frame-39322-7 {
+        position: absolute;
+        width: 280px;
+        height: 56px;
+        left: 40px;
+        top: 31px;
+        font-family: 'IntelOne Display';
+        font-style: normal;
+        font-weight: 700;
+        font-size: 25px;
+        line-height: 110%;
+        /* or 28px */
+
+        text-align: center;
+        color: #FFFFFF;
+    }
+
+    .frame-39322-img-1 {
+        position: absolute;
+        width: 116px;
+        height: 9px;
+        left: 215px;
+        top: 198px;
+    }
+
+    .frame-39322-img-2 {
+        position: absolute;
+        width: 176.54px;
+        height: 49.69px;
+        left: 166px;
+        top: 166px;
+        mix-blend-mode: screen;
+    }
+
+    .frame-39322-img-3 {
+        position: absolute;
+        width: 155px;
+        height: 75px;
+        left: 196px;
+        top: 188px;
+    }
+
+    .frame-39322-img-4 {
+        position: absolute;
+        width: 388px;
+        height: 289px;
+        left: -11px;
+        top: 214px;
+    }
+
+    .frame-39322-img-5 {
+        position: absolute;
+        width: 392px;
+        height: 1742px;
+        left: -25px;
+        top: -575px;
+        z-index: 3;
+    }
+
+    /*Frame 3933 - mobile*/
+
+    .frame-3933 {
+        position: absolute;
+        width: 360px;
+        height: 669px;
+        left: 0px;
+        top: 1651px;
+        background: #0C011C;
+        z-index: 1;
+    }
+
+    .frame-3933-1 {
+        position: absolute;
+        width: 206px;
+        height: 219px;
+        left: 132px;
+        top: 470px;
+        z-index: 1;
+    }
+
+    .frame-3933-11 {
+        position: absolute;
+        width: 86px;
+        height: 102px;
+        left: 85px;
+        top: 39px;
+        font-family: 'IntelOne Display';
+        font-style: normal;
+        font-weight: 500;
+        font-size: 15px;
+        line-height: 110%;
+        z-index: 3;
+        color: #FFFFFF;
+    }
+
+    .frame-3933-12 {
+        position: absolute;
+        width: 95px;
+        height: 102px;
+        left: 85px;
+        top: 117px;
+        font-family: 'IntelOne Display';
+        font-style: normal;
+        font-weight: 400;
+        font-size: 10px;
+        line-height: 110%;
+        /* or 11px */
+
+        z-index: 3;
+        color: #FFFFFF;
+    }
+
+    .frame-3933-1-img {
+        position: absolute;
+        width: 12px;
+        height: 23px;
+        left: 61px;
+        top: 30px;
+        z-index: 3;
+    }
+
+    .frame-3933-14 {
+        position: absolute;
+        width: 206px;
+        height: 219px;
+        left: 0px;
+        top: 0px;
+        z-index: 1;
+    }
+
+    .frame-3933-14-img1 {
+        position: absolute;
+        width: 206px;
+        height: 49px;
+        left: 0px;
+        top: 0px;
+        z-index: 2;
+    }
+
+    .frame-3933-14-img2 {
+        position: absolute;
+        width: 294.57px;
+        height: 74.3px;
+        left: -132px;
+        top: -23px;
+        z-index: 3;
+    }
+
+    .frame-3933-2 {
+        position: absolute;
+        width: 206px;
+        height: 186px;
+        left: -27px;
+        top: 470px;
+        z-index: 1;
+    }
+
+    .frame-3933-21 {
+        position: absolute;
+        width: 86px;
+        height: 102px;
+        left: 85px;
+        top: 29px;
+        font-family: 'IntelOne Display';
+        font-style: normal;
+        font-weight: 500;
+        font-size: 15px;
+        line-height: 110%;
+        /* or 17px */
+        z-index: 2;
+        color: #FFFFFF;
+    }
+
+    .frame-3933-22 {
+        position: absolute;
+        width: 102px;
+        height: 102px;
+        left: 85px;
+        top: 84px;
+        font-family: 'IntelOne Display';
+        font-style: normal;
+        font-weight: 400;
+        font-size: 10px;
+        line-height: 110%;
+        /* or 26px */
+
+        z-index: 2;
+        color: #FFFFFF;
+    }
+
+    .frame-3933-2-img {
+        position: absolute;
+        width: 12px;
+        height: 23px;
+        left: 61px;
+        top: 30px;
+        z-index: 2;
+    }
+
+    .frame-3933-24 {
+        position: absolute;
+        width: 206px;
+        height: 161px;
+        left: 0px;
+        top: 0px;
+    }
+
+    .frame-3933-24-img1 {
+        position: absolute;
+        width: 206px;
+        height: 49px;
+        left: 0px;
+        top: 0px;
+        mix-blend-mode: screen;
+    }
+
+    .frame-3933-24-img2 {
+        position: absolute;
+        width: 117px;
+        height: 138px;
+        left: 73px;
+        top: 23px;
+        z-index: 1;
+    }
+
+    .frame-3933-3 {
+        position: absolute;
+        width: 538px;
+        height: 102px;
+        left: 53px;
+        top: 223px;
+        font-family: 'IntelOne Display';
+        font-style: normal;
+        font-weight: 500;
+        font-size: 15px;
+        line-height: 110%;
+        /* or 17px */
+
+
+        z-index: 3;
+        color: #FFFFFF;
+    }
+
+    .frame-3933-4 {
+        position: absolute;
+        width: 640px;
+        height: 102px;
+        left: 56px;
+        top: 247px;
+        font-family: 'IntelOne Display';
+        font-style: normal;
+        font-weight: 400;
+        font-size: 10px;
+        line-height: 110%;
+        /* or 26px */
+
+        z-index: 3;
+        color: #FFFFFF;
+    }
+
+    .frame-3933-img-1 {
+        position: absolute;
+        width: 12px;
+        height: 23px;
+        left: 38px;
+        top: 221px;
+        z-index: 3;
+    }
+
+    .frame-3933-5 {
+        position: absolute;
+        width: 890px;
+        height: 219px;
+        left: -62px;
+        top: 184px;
+        z-index: auto;
+    }
+
+    .frame-3933-5-img1 {
+        position: absolute;
+        width: 385.75px;
+        height: 49.19px;
+        left: 0px;
+        top: 0px;
+        z-index: 1;
+    }
+
+    .frame-3933-5-img2 {
+        position: absolute;
+        width: 294.57px;
+        height: 74.3px;
+        left: 99.63px;
+        top: 22.7px;
+        z-index: 3;
+    }
+
+    .frame-3933-6 {
+        position: absolute;
+        width: 311px;
+        height: 76px;
+        left: 27px;
+        top: 101px;
+        font-family: 'IntelOne Display';
+        font-style: normal;
+        font-weight: 400;
+        font-size: 15px;
+        line-height: 110%;
+        /* or 17px */
+
+        text-align: center;
+    }
+
+    .frame-3933-7 {
+        position: absolute;
+        width: 280px;
+        height: 56px;
+        left: 40px;
+        top: 31px;
+        font-family: 'IntelOne Display';
+        font-style: normal;
+        font-weight: 700;
+        font-size: 25px;
+        line-height: 110%;
+        /* or 28px */
+
+        text-align: center;
+        color: #FFFFFF;
+    }
+
+    .frame-3933-img-2 {
+        position: absolute;
+        width: 390px;
+        height: 234px;
+        left: -19px;
+        top: 278px;
+        z-index: 3;
+    }
+
+
+    .frame-3933-img-3 {
+        position: absolute;
+        width: 377px;
+        height: 330px;
+        left: -13px;
+        top: 220px;
+        z-index: 3;
+        background: url('../image/Vector Smart Object copy 1.png');
+        mix-blend-mode: lighten;
+    }
+
+
+    .frame-3933-img-4 {
+        position: absolute;
+        width: 669px;
+        height: 422px;
+        left: -152px;
+        top: 159px;
+        z-index: 2;
+    }
+
+
+    .frame-3933-img-5 {
+        position: absolute;
+        width: 392px;
+        height: 1058px;
+        left: -25px;
+        top: -376px;
+        z-index: 3;
+    }
+
+
+    /*Frame 3935*/
+
+    .frame-3935 {
+        position: absolute;
+        width: 1920px;
+        height: 360px;
+        left: 0px;
+        top: 2320px;
+    }
+
+    .frame-3935-1 {
+        position: absolute;
+        width: 1920px;
+        height: 360px;
+        left: 23px;
+        top: 0px;
+        background: url('../image/Vector Smart Object copy 8.png');
+        opacity: 0.5;
+    }
+
+    .frame-3935-2 {
+        position: absolute;
+        width: 1950px;
+        height: 360px;
+        left: 0px;
+        top: 204px;
+        background: url('../image/Vector Smart Object copy 9.png');
+        opacity: 0.5;
+        transform: rotate(-180deg);
+    }
+
+    .Layer-574 {
+        position: absolute;
+        width: 1975px;
+        height: 360px;
+        left: -38px;
+        top: 4127px;
+        background: url('../image/Layer 574 2.png');
+    }
+
+    /*frame-39333*/
+
+    .frame-39333 {
+        position: absolute;
+        width: 360px;
+        height: 68px;
+        left: 0px;
+        top: 70px;
+        background: linear-gradient(180deg, #002B7B 0%, #0C011C 185.71%);
+        border-radius: 80px;
+    }
+
+    .frame-39333-1 {
+        position: absolute;
+        width: 684px;
+        height: 72px;
+        left: 618px;
+        top: 153px;
+        font-family: 'IntelOne Display';
+        font-style: normal;
+        font-weight: 700;
+        font-size: 65px;
+        line-height: 110%;
+        /* identical to box height, or 72px */
+
+        text-align: center;
+        background: linear-gradient(180deg, #C5FD4D 0%, #7AF1F9 123.61%);
+        -webkit-text-fill-color: transparent;
+    }
+
+    .frame-39333-2 {
+        position: absolute;
+        width: 684px;
+        height: 72px;
+        left: 620px;
+        top: 155px;
+        font-family: 'IntelOne Display';
+        font-style: normal;
+        font-weight: 700;
+        font-size: 65px;
+        line-height: 110%;
+        /* identical to box height, or 72px */
+
+        text-align: center;
+        color: #000000;
+    }
+
+    .frame-39333-3 {
+        position: absolute;
+        width: 1220px;
+        height: 198px;
+        left: 340px;
+        top: 106px;
+        background: url('../image/Layer 569 2.png');
+    }
+
+    .frame-39333-4 {
+        position: absolute;
+        width: 471px;
+        height: 584px;
+        left: 1133px;
+        top: 50px;
+        background: url('../image/Vector Smart Object copy.png');
+    }
+
+    .frame-39333-5 {
+        position: absolute;
+        width: 383px;
+        height: 584px;
+        left: 340px;
+        top: 50px;
+        background: url('../image/Vector Smart Object copy.png');
+    }
+
+    .frame-39333-6 {
+        position: absolute;
+        width: 471px;
+        height: 584px;
+        left: 1133px;
+        top: 50px;
+        background: url('../image/Vector Smart Object copy.png');
+    }
+
+    .frame-39333-7 {
+        position: absolute;
+        width: 383px;
+        height: 584px;
+        left: 340px;
+        top: 50px;
+        background: url('../image/Vector Smart Object copy.png');
+    }
+
+    .frame-39333-8 {
+        position: absolute;
+        width: 471px;
+        height: 584px;
+        left: 1133px;
+        top: 50px;
+        background: url('../image/Vector Smart Object copy.png');
+    }
+
+    .frame-39333-9 {
+        position: absolute;
+        width: 383px;
+        height: 584px;
+        left: 340px;
+        top: 50px;
+        background: url('../image/Vector Smart Object copy.png');
+    }
+
+
+.frame-39333-10 {
+    position: absolute;
+    width: 789px;
+    height: 219px;
+    left: 993px;
+    top: 142px;
+    background: url('../image/Layer 12 copy 2.png');
+    mix-blend-mode: screen;
+}
+
+.frame-39333-11 {
+    position: absolute;
+    width: 789px;
+    height: 219px;
+    left: 183px;
+    top: 23px;
+    background: url('../image/Layer 12 copy 2.png');
+    mix-blend-mode: screen;
+}
+
+.frame-39333-12 {
+    position: absolute;
+    width: 789px;
+    height: 219px;
+    left: 993px;
+    top: 142px;
+    background: url('../image/Layer 12 copy 2.png');
+    mix-blend-mode: screen;
+}
+
+.frame-39333-13 {
+    position: absolute;
+    width: 789px;
+    height: 219px;
+    left: 183px;
+    top: 23px;
+    background: url('../image/Layer 12 copy 2.png');
+    mix-blend-mode: screen;
+}
+
+.frame-39333-14 {
+    position: absolute;
+    width: 789px;
+    height: 219px;
+    left: 993px;
+    top: 142px;
+    background: url('../image/Layer 12 copy 2.png');
+    mix-blend-mode: screen;
+}
+
+.frame-39333-15 {
+    position: absolute;
+    width: 789px;
+    height: 219px;
+    left: 183px;
+    top: 23px;
+    background: url('../image/Layer 12 copy 2.png');
+    mix-blend-mode: screen;
+}
+
+/*frame item*/
+
+.frame-items {
+    position: absolute;
+    width: 360px;
+    left: 0px;
+    top: 125px;
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.frame-item {
+    margin-left: 11.09px;
+    margin-top: 36.69px;
+    width: 166px;
+    height: 450px;
+    background-color: white;
+    transition: 0.5s;
+}
+
+.frame-item:hover {
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.4);
+}
+
+
+.item-main {
+}
+
+
+
+.item-discount {
+    background-color: mintcream;
+}
+
+.item-img {
+    width: 100%;
+    height: 115px;
+    transition: 0.5s;
+}
+
+.item-name {
+    padding-left: 3px;
+    font-size: 15px;
+    transition: 0.5s;
+}
+
+
+.item-main:hover .item-img {
+    transform: scale(0.9);
+}
+
+.item-main:hover .item-name {
+    color: deepskyblue;
+}
+
+.item-discount {
+    font-size: 13px;
+}
+
+.item-ram-harddriver {
+    padding-left: 3px;
+}
+
+    .item-ram-harddriver span {
+        border: 1px solid gray;
+        padding: 2px 3px;
+        padding-bottom: 3px;
+        border-radius: 3px;
+        font-size: 13px;
+    }
+
+.item-online {
+    display: block;
+    padding: 8px 0px 0px 3px;
+    font-size:14px;
+}
+
+.item-price {
+    display: inline-block;
+    padding: 3px 0px 0px 3px;
+    font-size:13px;
+}
+
+.price-old {
+    text-decoration-line: line-through;
+    font-size:13px;
+}
+
+.percent {
+    font-size:13px;
+}
+
+.price {
+    font-size: 14px;
+    padding: 2px 0px 0px 3px;
+}
+
+.item-gift {
+    font-size: 13px;
+    display: block;
+    padding: 3px 0px 0px 3px;
+}
+
+.item-detail {
+    padding: 8px 0px 0px 3px;
+    display: block;
+    font-size: 12px;
+}
+
+
+.frame-show-all-items {
+    position: absolute;
+    width: 80%;
+    height: 249.23px;
+    left: 0px;
+    top: 2560px;
+    transition: 0.5s
+}
+
+.frame-show-all-items-text:hover {
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.4);
+}
+
+.frame-show-all-items-text {
+    position: absolute;
+    width: 260px;
+    height: 16px;
+    left: 50.12px;
+    top: 14px;
+    font-family: 'Helvetica';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 13px;
+    line-height: 16px;
+    /* identical to box height */
+
+    display: flex;
+    align-items: center;
+    text-align: center;
+    text-transform: uppercase;
+    color: #000000;
+}
+
+
+/*frame-3934*/
+
+.frame-3934 {
+    position: absolute;
+    width: 360px;
+    height: 564px;
+    left: 0px;
+    top: 4970px;
+    background: #FFFFFF;
+}
+
+
+.frame-3934-text {
+    position: absolute;
+    width: 330px;
+    height: 38px;
+    left: 0px;
+    top: 28px;
+    font-family: 'Arial';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 15px;
+    line-height: 10px;
+    /* or 51% */
+
+    display: flex;
+    align-items: center;
+    text-align: center;
+    color: #000000;
+}
+
+.frame-3934-img {
+    position: absolute;
+    width: 350px;
+    height: 150px;
+    left: 0px;
+    top: 40px;
+}
+
+
+.frame-3934-content {
+    position: absolute;
+    width: 350px;
+    height: 550px;
+    left: 0px;
+    top: 100px;
+}
+
+.frame-3934-content-1 {
+    display: flex;
+    flex-direction: column;
+}
+.frame-3934-content-1-youtube {
+    width: 350px;
+    height: 300px;
+    padding-bottom: 50px;
+}
+
+
+.f3c1-posts {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    padding-left: 5px;
+}
+
+.f3c1-post {
+    display: flex;
+    flex-direction: row;
+    padding-top: 5px;
+}
+
+    .f3c1-post:hover {
+        box-shadow: 0 2px 4px rgba(0, 0, 0, 0.4);
+    }
+
+.f3c1-post-text {
+    padding-left: 5px;
+}
+
+.f3c1pt-title {
+    display: block;
+    font-size: 15px;
+    transition: 0.3s;
+}
+
+.f3c1pt-img {
+    transition: 0.5s;
+}
+
+.f3c1pt-title:hover {
+    color: aqua;
+}
+
+.f3c1p-img:hover {
+    transform: scale(0.99);
+}
+
+.f3c1pt-content {
+    display: block;
+    font-size: 13px;
+    padding-top: 5px;
+}
+
+.f3c1pt-dv {
+    display: block;
+    font-size: 13px;
+    color: darkgray;
+    padding-top: 5px;
+}
+
+    .f3c2-img-1 {
+        margin-left: 10px;
+        color: snow;
+        background-color: #4267b2;
+        font-size: 13px;
+        text-align: center;
+        border-radius: 3px;
+    }
+
+
+    .f3c2-img-2 {
+        margin-left: 3px;
+        color: snow;
+        background-color: #4267b2;
+        font-size: 13px;
+        text-align: center;
+        border-radius: 3px;
+    }
+
+
+.frame-3934-conten-2 {
+    display: flex;
+    flex-direction: row;
+    margin-top: -390px;
+}
+
+.f3c2-text {
+    font-size: 15px;
+}
+
+.f3c1p-img {
+    width: 130px;
+    height: 100px;
+}
+
+.f3c2-img-1 {
+    width: 80px;
+}
+
+.f3c2-img-2 {
+    padding-left: 2px;
+}
+
+}
+
+}
